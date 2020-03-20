@@ -1,4 +1,4 @@
-* **Input** a original probe image
+* **Input** an original probe image
 
 * **output** SH coefficients **&** the reconstructed image using these SH coefficients.
 
